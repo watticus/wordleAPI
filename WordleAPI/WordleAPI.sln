@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleAPI", "WordleAPI.csproj", "{E060C982-F44E-49B2-8DA5-9775C8FF8368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTest", "..\WordleTest\WordleTest.csproj", "{C4E4A172-7F34-4D34-9079-D34D80263C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E060C982-F44E-49B2-8DA5-9775C8FF8368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E060C982-F44E-49B2-8DA5-9775C8FF8368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E060C982-F44E-49B2-8DA5-9775C8FF8368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E060C982-F44E-49B2-8DA5-9775C8FF8368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E4A172-7F34-4D34-9079-D34D80263C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E4A172-7F34-4D34-9079-D34D80263C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E4A172-7F34-4D34-9079-D34D80263C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E4A172-7F34-4D34-9079-D34D80263C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721A7A3A-157B-4F2B-A027-F1246F8186F6}
+	EndGlobalSection
+EndGlobal
